@@ -17,3 +17,4 @@ ERC1967Proxies are the direction the market is moving. They are the predecessor 
 ## Unkowns
 - What is track burning?
 - Why should URI be a function of tokenId and address?
+- Frozen URIs burnable?
